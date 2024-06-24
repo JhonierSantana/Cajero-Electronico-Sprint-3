@@ -15,9 +15,9 @@ const users = [
     tipo: 1,
   },
   {
-    nombre: "Cliente",
+    nombre: "Jhonier",
     documento: "1234567890",
-    contraseña: "cliente123",
+    contraseña: "Jhonier123",
     tipo: 2,
   },
 ];
